@@ -8,6 +8,7 @@ I have been programming since 2014 when I started learning basic web development
 ### Current Projects
 - Management Strategy Evaluation for Pacific Herring
 - Prince William Sound Pacific Herring Stock Assessment
+- Shortspine thornyhead Stock Assessment
 - Automated InSAR Data Processing Routine
 
 <!--
