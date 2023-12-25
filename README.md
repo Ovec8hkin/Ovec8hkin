@@ -1,15 +1,13 @@
 ### About Me
-I am, currently, a graduate student at the University of Washington - Seattle, where I am studying fisheries science. 
+I am, currently, a research scientist with the Univeristy of Alaska - Fairbanks College of Fisheries and Ocean Sciences, where I am collaborating with members of the NOAA Alaska Fisheries Science Center and North Pacific Fisheries Management Council to develop a management strategy evaluation framework for Alaska sablefish.
 
-I graduated from the University of Miami (FL) with a BSMAS in marine science and computer science in May 2021. While there, I worked primarily on a large-scale data processing routine for near real-time volcanology data, as well as a smaller project related to the dispersement and connectivity of marine larvae in the Gulf of Maine (in collaboration with Woods Hole Oceanagraphic Institute).
+I recieved an M.S. from the University of Washington in Aqautic and Fisheries Sciences in December 2023. My thesis research concerned the development of a management strategy evaluationt (MSE) framework for Pacific herring in Prince William Sound, Alaska, and integrating a Bayesian age-structured stock assessment model into the MSE simulation framework. While at UW, I also worked with assessment scientists from NOAA Fisheries to perform stock assessments for Shortspine thornyhead on the U.S. West Coast and Rougheye/Blackspotted rockfish in the Gulf of Alaska. 
 
 I have been programming since 2014 when I started learning basic web development languages. Since then, I have written code in C, Java, Javascript, Julia, R, Python, and Swift. Recently, I have spent most of my time working in R and Python, and I plan on spending more time in Julia in the coming years. 
 
 ### Current Projects
-- Management Strategy Evaluation for Pacific Herring
-- Prince William Sound Pacific Herring Stock Assessment
-- Shortspine thornyhead Stock Assessment
-- Automated InSAR Data Processing Routine
+- Management strategy evaluation of Alaska sablefish
+- Modern fisheries stock assessment visualizations
 
 <!--
 **Ovec8hkin/Ovec8hkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
