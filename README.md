@@ -1,5 +1,5 @@
 ### About Me
-I am, currently, a research scientist with the Univeristy of Alaska - Fairbanks College of Fisheries and Ocean Sciences, where I am collaborating with members of the NOAA Alaska Fisheries Science Center and North Pacific Fisheries Management Council to develop a management strategy evaluation framework for Alaska sablefish.
+I am, currently, a research technician with the Univeristy of Alaska - Fairbanks College of Fisheries and Ocean Sciences, where I am collaborating with members of the NOAA Alaska Fisheries Science Center and North Pacific Fisheries Management Council to develop a management strategy evaluation framework for Alaska sablefish.
 
 I recieved an M.S. from the University of Washington in Aqautic and Fisheries Sciences in December 2023. My thesis research concerned the development of a management strategy evaluationt (MSE) framework for Pacific herring in Prince William Sound, Alaska, and integrating a Bayesian age-structured stock assessment model into the MSE simulation framework. While at UW, I also worked with assessment scientists from NOAA Fisheries to perform stock assessments for Shortspine thornyhead on the U.S. West Coast and Rougheye/Blackspotted rockfish in the Gulf of Alaska. 
 
